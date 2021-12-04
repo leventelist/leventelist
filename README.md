@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Levente
 - 👀 I’m interested in Open source software, hardware
 - 🌱 I’m currently learning architecting
-- 📫 Just frop me a mail
+- 📫 Just drop me a mail
 
 <!---
 leventelist/leventelist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
